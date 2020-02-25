@@ -23,5 +23,7 @@ The activation energies are as follows, given in units of cal/mol:
 - Reaction 4: 27,900
 - Reaction 5: 30,400
 
+This data can be inputted into a level 2 reactor simulation to determine the conversions under different temperature and pressure conditions.
+
 Other important note regarding reactivity:
 - The concentration of o-xylene must not be between 1-6 mol% or above 10 mol%.
