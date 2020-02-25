@@ -2,7 +2,7 @@
 
 The following reaction kinetics are valid between 300-400 C and between 1-3 atm. 
 
-- The first reaction is the conversion of o-xylene and oxygen gas to phthalic anhydride.
+- The first reaction is the conversion of o-xylene and oxygen gas to phthalic anhydride and water.
 ![](Reaction1.png)
 - The second reaction is the combustion of phthalic anhydride.
 - The third reaction is the combustion of o-xylene.
