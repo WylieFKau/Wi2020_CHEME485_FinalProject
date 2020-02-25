@@ -15,11 +15,40 @@ The process will be fed air and pure o-xylene (OX) to form Phthalic anhydride (P
 
 ### Block Flow Diagram and Mass Balance
 
-__INSERT BFD HERE__
+__Insert BFD Here__
+
+![](PR_components/Figures/MassBalance.png)
 
 ### Reaction Kinetics
 
-__INSERT KINETICS DATA HERE__
+The following reaction kinetics are valid between 300-400 C and between 1-3 atm.
+
+- The first reaction is the conversion of o-xylene and oxygen gas to phthalic anhydride and water.
+![](PR_components/Figures/Reaction1.png)
+- The second reaction is the combustion of phthalic anhydride.
+- The third reaction is the combustion of o-xylene.
+- The fourth reaction is the conversion of o-xylene and oxygen gas to maleic anhydride, water, and carbon dioxide.
+![](PR_components/Figures/Reaction4.png)
+- The fifth reaction is the combustion of maleic anhydride.
+
+The reaction rates are measured in kmol/(hr kgcatalyst). Partial pressures are in atmospheres and temperature is in Kelvin. k_0 = 1 kmol/(hr kgcatalyst atm^2). A relevant value of R is 1.987 cal/(K mol).
+
+The reaction rates are given below:
+
+![](PR_components/Figures/ReactionRates.png)
+
+The activation energies are as follows, given in units of cal/mol:
+- Reaction 1: 27,000
+- Reaction 2: 31,000
+- Reaction 3: 28,600
+- Reaction 4: 27,900
+- Reaction 5: 30,400
+
+This data can be inputted into a level 2 reactor simulation to determine the conversions under different temperature and pressure conditions.
+
+Other important note regarding reactivity:
+- The concentration of o-xylene must not be between 1-6 mol% or above 10 mol%.
+
 
 ### Thermodynamics Package
 
@@ -32,4 +61,6 @@ and CO2 is a light gas.
 
 ### Preliminary Cost Estimate
 
-__INSERT COST ESTIMATE HERE__
+The cost estimate below is based on the raw material costs and product profit. Amounts are based on the Mass balance above.
+
+![](PR_components/Figures/CostEstimate.png)
