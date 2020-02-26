@@ -15,7 +15,7 @@ The process will be fed air and pure o-xylene (OX) to form Phthalic anhydride (P
 
 ### Block Flow Diagram and Mass Balance
 
-__Insert BFD Here__
+![](BFD.jpeg)
 
 ![](PR_components/Figures/MassBalance.png)
 
