@@ -11,7 +11,7 @@
 ![](PFD/E_sum_v1_p2.png)
 
 ## Aspen Simulation and Stream Table
-![](PFD/AspenFlowchart.png)
-![](PFD/AspenStreamTable.png)
+![](PFD/AspenFlowchart.PNG)
+![](PFD/AspenStreamTable.PNG)
 
 Current simulation file can be found at 'PFD/O_Xylene_plant_v3.apw'
