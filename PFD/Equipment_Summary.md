@@ -42,14 +42,14 @@ Q = 1,582 MJ/h <br>
 **E-705** <br>
 Carbon steel <br>
 A = 190.7 m2 <br>
-*Condensing process fluid in shell, boiling in tubes* <br>
+Condensing process fluid in shell, boiling in tubes <br>
 Floating head <br>
 Q = 12,080 MJ/h <br>
 
 **E-706** <br>
 Carbon steel <br>
 A = 13.81 m2 <br>
-*Process fluid in shell, boiling feed water in tubes* <br>
+Process fluid in shell, boiling feed water in tubes <br>
 Floating head <br>
 Q = 1,995 MJ/h <br>
 
@@ -57,14 +57,17 @@ Q = 1,995 MJ/h <br>
 **H-701** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
 Q = 8.5 MW <br>
+80% thermal efficiencym <br>
 
 **H-702** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
 Q = 2.4 MW <br>
+80% thermal efficiency <br>
 
 **H-703** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
 Q = 1.2 MW <br>
+80% thermal efficiency <br>
 
 ## Reactors
 **R-701** <br>
