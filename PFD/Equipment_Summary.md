@@ -7,7 +7,7 @@ W = 7120 kW <br>
 72% adiabatic efficiency
 
 **D-401** <br>
-Electric/explosion proof
+Electric/explosion proof <br>
 W = 7120 kW
 
 ## Heat Exchangers
@@ -54,7 +54,6 @@ Floating head <br>
 Q = 1,995 MJ/h <br>
 
 ## Fired Heaters
-
 **H-701** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
 Q = 8.5 MW <br>
@@ -68,7 +67,6 @@ Fired heater-refractory-lined, stainless-steel tubes <br>
 Q = 1.2 MW <br>
 
 ## Reactors
-
 **R-701** <br>
 316 stainless steel isothermal fluidized bed <br>
 Modeled as a plug flow reactor <br>
@@ -79,7 +77,6 @@ V = 125.7 m3<br>
 10 m tall, 4 m diameter <br>
 
 ## Towers
-
 **T-701** <br>
 Carbon steel <br>
 D = 0.9 m <br>
