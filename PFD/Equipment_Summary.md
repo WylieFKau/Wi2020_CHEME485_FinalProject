@@ -18,7 +18,7 @@ Boiling in shell, steam condensing in tubes <br>
 Floating head <br>
 Q = 16,012 MJ/h <br>
 
-**E-702** <br>
+**E-702 A/B/C** <br>
 Carbon steel <br>
 A = 248.7 m2 <br>
 Process fluid in shell, cooling water in tubes <br>
@@ -34,17 +34,17 @@ Q = 10,0082 MJ/h <br>
 
 **E-704** <br>
 Carbon steel <br>
-A = 9.158 m2 <br>
-*Condensing process fluid in shell, boiling in tubes* <br>
-Floating head <br>
-Q = 1,582 MJ/h <br>
-
-**E-705** <br>
-Carbon steel <br>
 A = 190.7 m2 <br>
 Condensing process fluid in shell, boiling in tubes <br>
 Floating head <br>
 Q = 12,080 MJ/h <br>
+
+**E-705** <br>
+Carbon steel <br>
+A = 9.158 m2 <br>
+*Condensing process fluid in shell, boiling in tubes* <br>
+Floating head <br>
+Q = 1,582 MJ/h <br>
 
 **E-706** <br>
 Carbon steel <br>
