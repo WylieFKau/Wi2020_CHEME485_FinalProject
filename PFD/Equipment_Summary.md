@@ -5,15 +5,18 @@
 Carbon steel <br>
 W = 7120 kW <br>
 72% adiabatic efficiency
+1 spare <br>
 
 **D-401** <br>
 Electric/explosion proof <br>
 W = 7120 kW
+1 spare <br>
 
 ## Heat Exchangers
 **E-701** <br>
 Carbon steel <br>
 A = 287.7 m2 <br>
+Design Pressure = 1/10 barg shell/tube <br>
 Boiling in shell, steam condensing in tubes <br>
 Floating head <br>
 Q = 16,012 MJ/h <br>
@@ -21,6 +24,7 @@ Q = 16,012 MJ/h <br>
 **E-702 A/B/C** <br>
 Carbon steel <br>
 A = 248.7 m2 <br>
+Design Pressure = 1/0 barg shell/tube <br>
 Process fluid in shell, cooling water in tubes <br>
 Floating head <br>
 Q = 65,499 MJ/h <br>
@@ -28,6 +32,7 @@ Q = 65,499 MJ/h <br>
 **E-703** <br>
 Carbon steel <br>
 A = 291.8 m2 <br>
+Design Pressure = 1/10 barg shell/tube <br>
 Process fluid in shell, steam condensing in tubes <br>
 Floating head <br>
 Q = 10,0082 MJ/h <br>
@@ -35,6 +40,7 @@ Q = 10,0082 MJ/h <br>
 **E-704** <br>
 Carbon steel <br>
 A = 190.7 m2 <br>
+Design Pressure = 1/0 barg shell/tube <br>
 Condensing process fluid in shell, boiling in tubes <br>
 Floating head <br>
 Q = 12,080 MJ/h <br>
@@ -42,13 +48,15 @@ Q = 12,080 MJ/h <br>
 **E-705** <br>
 Carbon steel <br>
 A = 9.158 m2 <br>
-*Condensing process fluid in shell, boiling in tubes* <br>
+Design Pressure = 1/0 barg shell/tube <br>
+Condensing process fluid in shell, boiling in tubes <br>
 Floating head <br>
 Q = 1,582 MJ/h <br>
 
 **E-706** <br>
 Carbon steel <br>
 A = 13.81 m2 <br>
+Design Pressure = 1/0 barg shell/tube <br>
 Process fluid in shell, boiling feed water in tubes <br>
 Floating head <br>
 Q = 1,995 MJ/h <br>
@@ -56,16 +64,19 @@ Q = 1,995 MJ/h <br>
 ## Fired Heaters
 **H-701** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
+Design Pressure = 1 barg <br>
 Q = 8.5 MW <br>
-80% thermal efficiencym <br>
+80% thermal efficiency <br>
 
 **H-702** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
+Design Pressure = 1 barg <br>
 Q = 2.4 MW <br>
 80% thermal efficiency <br>
 
 **H-703** <br>
 Fired heater-refractory-lined, stainless-steel tubes <br>
+Design Pressure = 1 barg <br>
 Q = 1.2 MW <br>
 80% thermal efficiency <br>
 
